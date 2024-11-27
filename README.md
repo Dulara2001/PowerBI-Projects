@@ -67,7 +67,7 @@ This dashboard provides a comprehensive overview of Amazon Prime Video's content
 
 ## Dataset
 The dataset used for this project can be downloaded from the following link:  
-
+https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
 
 ## **Summary Metrics**
 - **Total Titles**: Displays the total number of movies and TV shows available on Amazon Prime Video (9,655).
